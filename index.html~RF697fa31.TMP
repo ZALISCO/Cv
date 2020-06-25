@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>💙💚Saliou's Personal site</title>
+<style type="text/css">
+.BAC {
+	background-color: #FF3;
+}
+th {
+}
+</style>
+</head>
+
+<body>
+<table>
+<tr>
+<td><img src="bra2.jpg" alt="sadio mane"> </td>
+
+<td> <h1>Saliou Tine </h1>
+<p><em>I am a Chef, But I have got few hobbies I �💛🤍💚</em></p>
+  <p><em>web development is my passion</em></p> </td>
+</tr>
+
+
+
+
+</table>
+
+
+ 
+<hr>
+<h1><a href="My hobbies.html">My Hobbies</a></h1>
+
+  <ol>
+  <li>Electronics to </li>
+    <li>building Drone</li>
+    <li>Automatic hand sanitizer</li>
+    <li>Robotic cars</li>
+    <li>Social Distance warning</li>
+    <li>Arduino lcd display</li>
+    <li>Battery Charger</li>
+  </ol>
+  <h2><a href="My contact.html">Contact</a></h2>
+  <hr>
+<h1>Skills</h1>
+  <table cellpadding="20" >
+  <tr>
+  <td>Cooking </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    
+    <td>Java</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+    <tr>
+  <td>Cooking </td>
+    <td>⭐⭐⭐⭐⭐</td>
+    
+    <td>Web Design</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  
+    <tr>
+    
+    <td>Html</td>
+     <td>⭐⭐⭐⭐⭐</td>
+    <td>Screen Relacement</td>
+   <td>⭐⭐⭐⭐⭐</td>
+   
+  
+  
+  
+  </table>
+  <hr>
+
+<h2> My work Experience</h2>
+<table cellpadding="10" cellspacing="40">
+  <tr>
+  <th> Malvern theatre</th>
+  <th>
+    Date 2002
+  </th>
+  <th>★★★★★★</th>
+</tr>
+  <tr>
+<th>The Cottage  </th>
+<th> date 2004</th>
+<th>★★★★★</th>
+</tr>
+  <tr>
+<th> MKettle Sings</th>
+<th>date 2007</th>
+<th>★★★★★</th>
+</tr>
+<tr>
+  <th> Malvern theatre</th>
+  <th>
+    Date 2002
+  </th>
+  <th>★★★★★</th>
+</tr>
+ 
+</table>
+<tbody></tbody>
+<tfoot></tfoot>
+
+
+</body>
+
+</html>
